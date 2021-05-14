@@ -4,9 +4,9 @@ This guide contains the workshop material for Janis Portable Pipeline.
 
 This workshop has 2 x 2 hour parts.
 
-## 1st workshop
+## Part 1
 
-The first workshop is mostly focused on becoming familliar with Janis in a bioinformatics approach. We'll introduce workflow concepts and use Janis to demonstrate these concepts. Take care to introduce containers, and how we run software using containers.
+Part 1 of this workshop is mostly focused on becoming familliar with Janis in a bioinformatics approach. We'll introduce workflow concepts and use Janis to demonstrate these concepts. Take care to introduce containers, and how we run software using containers.
 
 We'll briefly introduce CWL and WDL, and show how Janis concepts map to generated CWL and WDL. 
 
@@ -17,7 +17,7 @@ We'll introduce [GATK best practices](https://gatk.broadinstitute.org/hc/en-us/a
 
 We'll aim to finish the data pre-processing step in the first workshop.
 
-## 2nd workshop
+## Part 2
 
 - Wrap the germline short variant discovery pipeline in Janis
 - Connect the two pipelines
