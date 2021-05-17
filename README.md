@@ -17,8 +17,12 @@ We'll introduce [GATK best practices](https://gatk.broadinstitute.org/hc/en-us/a
 
 We'll aim to finish the data pre-processing step in the first workshop.
 
+[> Start here](Part1/1-workshop-intro.md)
+
 ## Part 2
 
 - Wrap the germline short variant discovery pipeline in Janis
 - Connect the two pipelines
 - Discuss resource overrides in Janis.
+
+[> Continue to Part 2 Janis workshop](Part2/1-workshop-intro-part2.md)
