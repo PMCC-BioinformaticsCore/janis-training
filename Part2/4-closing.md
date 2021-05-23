@@ -18,6 +18,6 @@ If you want to learn more about Janis, please check out Janis' GitHub and readth
 
 - Janis Documentation: https://janis.readthedocs.io/en/latest
 - Janis GitHub: https://github.com/PMCC-BioinformaticsCore/janis
-- This workshop GitHub: https://github.com/PMCC-BioinformaticsCore/janis-workshops
+- This workshop GitHub: https://github.com/PMCC-BioinformaticsCore/janis-training
 - Gitter: https://gitter.im/janis-pipelines/community
-- If you have any feedback regarding this training materials, please create a Github Issue on https://github.com/PMCC-BioinformaticsCore/janis-training
+- If you have any feedback regarding this training materials, please create a Github Issue on https://github.com/PMCC-BioinformaticsCore/janis-training/issues
