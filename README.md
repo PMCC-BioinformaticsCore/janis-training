@@ -26,3 +26,11 @@ We'll aim to finish the data pre-processing step in the first workshop.
 - Discuss resource overrides in Janis.
 
 [> Continue to Part 2 Janis workshop](Part2/1-workshop-intro-part2.md)
+
+## Important Links:
+
+- Janis Documentation: https://janis.readthedocs.io/en/latest
+- Janis GitHub: https://github.com/PMCC-BioinformaticsCore/janis
+- This workshop GitHub: https://github.com/PMCC-BioinformaticsCore/janis-training
+- Gitter: https://gitter.im/janis-pipelines/community
+- If you have any feedback regarding this training materials, please create a Github Issue on https://github.com/PMCC-BioinformaticsCore/janis-training/issues
